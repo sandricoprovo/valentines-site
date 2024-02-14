@@ -1,8 +1,0 @@
-@layer reset, variables, base, layout, utilities, animations;
-
-@import '../styles/reset.css';
-/* @import '../styles/variables.css'; */
-@import '../styles/base.css';
-/* @import '../styles/layout.css'; */
-/* @import '../styles/utilities.css'; */
-/* @import '../styles/animations.css'; */
